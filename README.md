@@ -2,6 +2,9 @@
 
 ## 🚀 Proyecto
 
+🔧 **Imagen Screenshots**:
+![Screenshots](./screenshots/Login_exitoso_con_credenciales_v_lidas.png)
+
 1. Crea un proyecto Maven: `bdd-login-project`.
 
 
@@ -14,6 +17,3 @@ Feature: Acceso a la plataforma bancaria
     When escribe su nombre "admin" y su clave "admin123"
     Then debería ver el mensaje "Bienvenido, admin"
 
-
-🔧 **Imagen Screenshots**:
-![Screenshots](./screenshots/Login_exitoso_con_credenciales_v_lidas.png)
