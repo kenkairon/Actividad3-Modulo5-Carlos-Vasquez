@@ -13,3 +13,7 @@ Feature: Acceso a la plataforma bancaria
     Given que el usuario está en la página de login
     When escribe su nombre "admin" y su clave "admin123"
     Then debería ver el mensaje "Bienvenido, admin"
+
+
+🔧 **Imagen Screenshots**:
+![Screenshots](./screenshots/Login_exitoso_con_credenciales_v_lidas.png)
