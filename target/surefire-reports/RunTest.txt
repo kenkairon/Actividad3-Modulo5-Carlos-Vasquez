@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: RunTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.159 s <<< FAILURE! - in RunTest
+Login exitoso con credenciales válidas  Time elapsed: 2.877 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The constructor LoginPage(WebDriver) refers to the missing type WebDriver
+
+
